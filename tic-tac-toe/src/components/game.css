@@ -1,0 +1,36 @@
+.game-container {
+    margin: 5%;
+}
+
+.game-actions {
+    margin: 30px;
+}
+
+.grid-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    width: 80vw;
+
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.player-info {
+    color: #5D6D7E
+}
+
+button {
+    width: 200px;
+    height: 45px;
+    text-align: center;
+    margin-right: 10px;
+    background-color: #3498DB;
+    color: white;
+    font-size: 16px;
+    border-radius: 2px;
+    border: solid thin #3498DB;
+    cursor: pointer;
+}
